@@ -1,0 +1,21 @@
+# TypeScript
+*.tsbuildinfo
+
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Obsidian
+.obsidian/
+InviteStudio-Development-notes/
