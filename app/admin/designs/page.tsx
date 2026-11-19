@@ -1,2 +1,2 @@
-import { AdminPlaceholder } from "@/components/admin/AdminPlaceholder";
-export default function DesignsPage() { return <AdminPlaceholder title="Design Gallery" description="Manage ready-made invitation designs, categories, previews, and publishing status." />; }
+import { DesignGallery } from "@/components/admin/design-gallery";
+export default function DesignsPage() { return <DesignGallery />; }
